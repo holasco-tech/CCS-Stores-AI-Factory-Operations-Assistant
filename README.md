@@ -58,6 +58,20 @@ Factory Manager / Staff
 
 A Mermaid version is available in [`docs/architecture.md`](docs/architecture.md).
 
+## Live System Evidence
+
+### n8n Factory Operations Workflow
+
+![CCS Stores n8n Factory Operations Workflow](Screenshot%202026-08-13%20115812.png)
+
+The n8n canvas shows the automation layer that receives, classifies, routes, and processes factory operational updates before writing them to the correct records.
+
+### Google Sheets Operations Database
+
+![CCS Stores Google Sheets Operations Database](Screenshot%202026-08-13%20120105.png)
+
+The Google Sheets database provides the structured operational record layer used for inventory, production, sales, expenses, payments, deliveries, buyers, raw materials, farm-feed usage, and related factory activity.
+
 ## Operational database
 
 The system is designed around these records:
