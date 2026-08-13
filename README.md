@@ -113,6 +113,12 @@ A later payment test records the remaining **₦7,000** against sale `SALE-20260
 
 A kernel-purchase test records **1,000 kg of palm kernel nuts**, payment information and delivery status, generating purchase ID `KER-20260805-132958`.
 
+## WhatsApp Factory Demo Video
+
+[Watch the CCS Stores AI Factory Operations Assistant WhatsApp demo](https://youtu.be/U10FNiXdQ0s)
+
+This demo shows the WhatsApp-first factory workflow in action, including how operational updates are captured and routed into the factory operations system.
+
 ## Tech stack
 
 - **n8n** — workflow orchestration
